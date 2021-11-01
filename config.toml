@@ -1,5 +1,5 @@
 [docker]
-configs = [    "selenium/standalone-firefox:4.0.0-rc-1-prerelease-20210804", "{\"browserName\": \"firefox\"}",
+configs = [    "selenium/standalone-firefox:4.0.0", "{\"browserName\": \"firefox\"}",
 "selenium/standalone-chrome:94.0", "{\"browserName\": \"chrome\"}",
 "selenium/standalone-edge:95.0", "{\"browserName\": \"MicrosoftEdge\"}"    ]
 # URL for connecting to the docker daemon
